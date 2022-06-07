@@ -1,11 +1,14 @@
-# TODO
+#TODO
 
-Here is the GitHub Page I create for the open source project. 
+Here is the GitHub Page I created for the open source project called **TODO**.
 
-https://abiey2579.github.io/Todo/
+**It Aim to help organized notes and to-do's in a professional way and access them from anywhere.**
 
-**Helps organized notes and to-do's in a professional way and access them from anywhere.**
+[https://Notion.so](https://t.co/Kx4fdNQr92) is what inspired me to start this project.
 
-http://Notion.com is the inspiration behind this project.
+Link to preview the project
 
+[https://todo.github.io](https://abiey2579.github.io/Todo/)
 
+Repository Link Below
+[https://github.com/Abiey2579/Todo](https://github.com/Abiey2579/Todo)
