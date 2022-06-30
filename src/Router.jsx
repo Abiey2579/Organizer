@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 // HOME PAGE COMPONENT
 import OrganizerHome from "./Home";
 
-const Xyshma = () => {
+const OrganizerRouter = () => {
   return (
     <BrowserRouter>
       <Routes>
@@ -14,4 +14,4 @@ const Xyshma = () => {
   );
 };
 
-export default Xyshma;
+export default OrganizerRouter;

@@ -1,10 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Xyshma from "./Router";
+import OrganizerRouter from "./Router";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Xyshma />
+    <OrganizerRouter />
   </React.StrictMode>,
   document.getElementById("root")
 );
