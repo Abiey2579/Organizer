@@ -1,10 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import OrganizerRouter from "./Router";
+import OrganizerHome from "./Home";
 
 ReactDOM.render(
   <React.StrictMode>
-    <OrganizerRouter />
+    <OrganizerHome />
   </React.StrictMode>,
   document.getElementById("root")
 );
